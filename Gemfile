@@ -5,4 +5,3 @@ gem 'rake'
 gem 'motion-cocoapods', :github => 'HipByte/motion-cocoapods'
 gem 'afmotion'
 
-
